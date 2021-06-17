@@ -5,3 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "My Projects"
+      href: project.html
+    - text: "Courses"
+      menu:
+      - text: "Math 130"
+        href: math130.html
+      - text: "Math 314"
+        href: math314.html
